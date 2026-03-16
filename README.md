@@ -2,7 +2,7 @@
   <img src="https://aguafuertescompletas.unla.edu.ar/wp-content/uploads/2024/08/Logo-UNLa-ARLT.jpg" width="200">
 </p>
 
-# Programación - UNLa
+# Programación Concurrente - UNLa
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/UNLa-materias/CONCURRENTE_UNLa)
 ![GitHub last commit](https://img.shields.io/github/last-commit/UNLa-materias/CONCURRENTE_UNLa)
