@@ -17,7 +17,7 @@
 ## 📚 Materia
 **Programación Concurrente**
 
-Este repositorio contiene ejemplos, ejercicios y materiales utilizados en la cursada de la materia **Programación Concurrente**, con foco en el aprendizaje de **programación en Java y Go**.
+Este repositorio contiene ejemplos, ejercicios y materiales utilizados en la cursada de la materia **Programación Concurrente**, con foco en el aprendizaje de **programación en C++, Java y Go**.
 
 ---
 
