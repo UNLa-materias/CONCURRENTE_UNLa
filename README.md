@@ -6,7 +6,7 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/UNLa-materias/CONCURRENTE_UNLa)
 ![GitHub last commit](https://img.shields.io/github/last-commit/UNLa-materias/CONCURRENTE_UNLa)
-![GitHub license](https://img.shields.io/github/license/UNLa-materias/CONCURENTE_UNLa)
+![GitHub license](https://img.shields.io/github/license/UNLa-materias/CONCURRENTE_UNLa)
 
 ## Universidad Nacional de Lanús  
 ### Departamento de Desarrollo Productivo y Tecnológico  
